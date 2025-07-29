@@ -22,3 +22,7 @@ cone strutturiamo l'esercizio?
 1) iniziamo col creare inanzitutto dentro al folder modules il names.js
 2) creiamo al suo interno una function che accetta i due parametri: firstName, lastName
 3) fatto ciò eseguiamo al suo interno un return delle 2 firstName e lastName
+4) rendiamo possibile l'export della function
+5) creiamo una constante person in scripts.js, che riprende l'export all'interno di names.js
+6) creiamo una constante persona, che conterrà quello che ci verrà returnato dalla function in names.js (passandogli 2 valori)
+7) eseguo il console.log della constante persona
