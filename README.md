@@ -19,6 +19,8 @@ Crea una funzione che non ha parametri. La funzione dovrebbe restituire un ogget
 
 cone strutturiamo l'esercizio? 
 
+START
+
 1) iniziamo col creare inanzitutto dentro al folder modules names.js
 2) creiamo al suo interno una function che accetta i due parametri: firstName, lastName
 3) fatto ciò eseguiamo al suo interno un return delle 2 firstName e lastName
@@ -28,3 +30,7 @@ cone strutturiamo l'esercizio?
 7) eseguo il console.log della constante persona
 8) creiamo dentro al folder module hobbies.js
 9) facciamo tutti i passaggi precedentemente elencati (ma con la differenza che anzichè passare un oggetto, gli passiamo un'array con 3 parametri: hobbyOne, hobbyTwo, hobbyThree)
+10) ottenuti names.js e hobbies.js, creiamo in script.js una function senza parametri (chiamata getSubjectInfo)
+11) al suo interno recuperiamo tutte le informazioni dentro ai 2 moduli precedentemente creati (fullName -> l'oggetto che si trova in names.js, hobbies -> l'array che si trova in hobbies.js)
+
+END
