@@ -19,10 +19,12 @@ Crea una funzione che non ha parametri. La funzione dovrebbe restituire un ogget
 
 cone strutturiamo l'esercizio? 
 
-1) iniziamo col creare inanzitutto dentro al folder modules il names.js
+1) iniziamo col creare inanzitutto dentro al folder modules names.js
 2) creiamo al suo interno una function che accetta i due parametri: firstName, lastName
 3) fatto ciò eseguiamo al suo interno un return delle 2 firstName e lastName
 4) rendiamo possibile l'export della function
 5) creiamo una constante person in scripts.js, che riprende l'export all'interno di names.js
 6) creiamo una constante persona, che conterrà quello che ci verrà returnato dalla function in names.js (passandogli 2 valori)
 7) eseguo il console.log della constante persona
+8) creiamo dentro al folder module hobbies.js
+9) facciamo tutti i passaggi precedentemente elencati (ma con la differenza che anzichè passare un oggetto, gli passiamo un'array con 3 parametri: hobbyOne, hobbyTwo, hobbyThree)
